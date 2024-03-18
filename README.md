@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...dsa and web developement
 - 💞️ I’m looking to collaborate on ...competitive programming and web developing.
 - 📫 How to reach me ...email:-datapirate1708@gmail.com
-- 😄 Pronouns: ...mayank
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
